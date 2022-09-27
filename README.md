@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **benkhuber@gmail.com**
 
-- ⚡ Fun fact: **I hiked across the US!**
+- ⚡ Fun fact: **I hiked 2600 miles across the US!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate software developer from California</h3>
 
-- 📫 How to reach me **benkhuber@gmail.com**
+- 📫 How to reach me: **benkhuber@gmail.com**
 
-- ⚡ Fun fact **I hiked across the US!**
+- ⚡ Fun fact: **I hiked across the US!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

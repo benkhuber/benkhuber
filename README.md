@@ -1,6 +1,3 @@
-<h1>Hi 👋, I'm Ben</h1>
-
-
 - 📫 How to reach me: **benkhuber@gmail.com**
 
 - ⚡ Fun fact: **I hiked 2600 miles across the US!**

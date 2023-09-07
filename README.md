@@ -1,7 +1,5 @@
 - 📫 How to reach me: **benkhuber@gmail.com**
 
-- ⚡ Fun fact: **I hiked 2600 miles across the US!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/benkhuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benkhuber" height="30" width="40" /></a>
